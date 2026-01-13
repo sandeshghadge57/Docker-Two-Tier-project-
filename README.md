@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Flask App with MySQL Docker Setup
 
@@ -128,3 +129,7 @@ docker run -d \
 
 ```
 
+=======
+# Docker-Two-Tier-project-
+This is Docker Two-Tier project To-do -list 
+>>>>>>> 5520dd3ca8367b90e0ea18b9df4449366f59b65b
